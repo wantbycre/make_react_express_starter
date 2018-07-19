@@ -1,0 +1,15 @@
+{
+  "name": "react_express_starter",
+  "version": "1.0.0",
+  "description": "react start easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wantbycre/make_react_express_starter.git"
+  },
+  "author": "want",
+  "license": "ISC",
+}
